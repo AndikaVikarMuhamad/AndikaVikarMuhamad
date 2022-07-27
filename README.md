@@ -1,4 +1,4 @@
-h1 align="center">Hewwwo 👋, I'm Andika Vikar Muhamad</h1>
+<h1 align="center">Hewwwo 👋, I'm Andika Vikar Muhamad</h1>
 <h3 align="center">Orang skizo(Cuma member kami skizo njirr:v)</h3>
 
 - 🌱 I’m currently learning **React.js,Express and Golang**
