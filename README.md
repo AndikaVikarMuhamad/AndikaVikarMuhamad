@@ -7,6 +7,11 @@
 
 - ⚡ Fun fact **I hate Vue**
 
+<h2 align="left">Activity</h2>
+
+<img  src="https://spotify-github-profile.vercel.app/api/view?uid=oubptehko9lsxrjyi116s2zzj&cover_image=true&theme=default&bar_color_cover=true&bar_color=00e6d6" />
+   <img  src="https://lanyard.cnrad.dev/api/894175067645308989?bg=cce2e6&theme=light&hideDiscrim=true&idleMessage=Lagi%20sekolah%20kalo%20ga%20tidur&borderRadius=40px" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vannn.tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vannn.tk" height="30" width="40" /></a>
