@@ -9,8 +9,9 @@
 
 <h2 align="center">Activity</h2>
 <div align="center">
-<img  src="https://spotify-github-profile.vercel.app/api/view?uid=oubptehko9lsxrjyi116s2zzj&cover_image=true&theme=default&bar_color_cover=true&bar_color=00e6d6" />
-   <img  src="https://lanyard.cnrad.dev/api/894175067645308989?bg=cce2e6&theme=light&hideDiscrim=true&idleMessage=Lagi%20sekolah%20kalo%20ga%20tidur&borderRadius=40px" />
+<img  src="https://spotify-github-profile.vercel.app/api/view?uid=oubptehko9lsxrjyi116s2zzj&cover_image=true&theme=default&bar_color_cover=true&bar_color=00e6d6" /> <div>
+
+ <div align="center">  <img  src="https://lanyard.cnrad.dev/api/894175067645308989?bg=cce2e6&theme=light&hideDiscrim=true&idleMessage=Lagi%20sekolah%20kalo%20ga%20tidur&borderRadius=40px" />
    <div>
 
 <h3 align="left">Connect with me:</h3>
