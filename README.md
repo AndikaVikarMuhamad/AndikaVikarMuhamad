@@ -1,15 +1,11 @@
-<h1 align="center">Hewwwo 👋, I'm Andika Vikar Muhamad</h1>
-<h3 align="center">Orang skizo(Cuma member kami skizo njirr:v)</h3>
+<h1>Hi there👋</h1>
+<h3 >I'm Andika Vikar Muhamad</h3>
 
-- 🌱 I’m currently learning **React.js,Express,Java and Golang**
+- 🌱 I’m currently learning **React.js,Express and Java**
 
-- 👨‍💻 All of my projects are available at [https://andikavikarmuhamad.github.io/](https://andikavikarmuhamad.github.io/)
+- 👨‍💻 All of my projects are available at [here](https://andikavikarmuhamad.github.io/)
 
-- ⚡ Fun fact **I hate Vue**
-
-<h2 align="center">Activity</h2>
- <div align="center">  <img  src="https://lanyard.cnrad.dev/api/894175067645308989?bg=cce2e6&theme=light&hideDiscrim=true&idleMessage=Lagi%20sekolah%20kalo%20ga%20tidur&borderRadius=40px" />
-   <div>
+- ⚡ Let him cook not let him **Hardstuck in bronze 3 for 3 season ;-;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
