@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://andikavikarmuhamad.github.io/)
 
-- ⚡mangu
+- ⚡ mangu
   
 - 🎀 life's too short to argue, just say "ya udah sih wir" and move on
 
